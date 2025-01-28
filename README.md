@@ -10,6 +10,6 @@ Objeto em programação - Academia Tech. Disponível em: https://academiatech.bl
 
 O que são paradigmas de programação e quais os principais tipos? - tripleten. Disponível em: https://tripleten.com.br/blog/paradigmas-de-programacao-o-que-sao-e-quais-os-principais/. Acesso em: 21 JAN. 2025.;
 
-JHONE, Erick. Interfaces x Classes Abstratas. Disponível em: https://www.dio.me/articles/interfaces-x-classes-abstratas. Acesso: 22 JAN. 2025.;
+JHONE, Erick. Interfaces x Classes Abstratas. Disponível em: https://www.dio.me/articles/interfaces-x-classes-abstratas. Acesso em: 22 JAN. 2025.;
 
-Interfaces - Alura. Disponível em: https://www.alura.com.br/apostila-java-orientacao-objetos/interfaces. JAN 22. 2025.
+Interfaces - Alura. Disponível em: https://www.alura.com.br/apostila-java-orientacao-objetos/interfaces. Acesso em: 22 JAN. 2025.
